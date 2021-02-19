@@ -9,4 +9,4 @@ This website is for practice only,
 please inform me to remove immediately if any infringement caused.
 
 
-![image](https://github.com/vivianafu/CSS-practice/blob/master/previewww.jpg)
+![image](https://github.com/vivianafu/JQuery-practice/blob/master/preview2-01.jpg)
